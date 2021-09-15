@@ -26,7 +26,7 @@ A rota deve receber, pelo parâmetro da rota, o `id` do repositório que deve re
 
 ## 👩‍💻 Testes
 
-### Testes de repositórios
+### 📁 Testes de repositórios
 
 - **Should be able to create a new repository**
 
@@ -116,7 +116,7 @@ Para que esse teste passe, você deve permitir que um repositório seja excluíd
 
 Para que esse teste passe, você deve validar se o repositório existe antes de excluí-lo. Caso o repositório não exista, retorne um status `404` com uma mensagem de erro no formato `{ error: "Mensagem do erro" }`.
 
-### Testes de likes
+### 👍 Testes de likes
 
 - **Should be able to give a like to the repository**
 
